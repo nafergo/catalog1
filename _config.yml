@@ -5,9 +5,9 @@ description: "Lawrence Livermore National Laboratory Software Portal"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
 release_number: LLNL-WEB-680594
 
-url: "https://software.llnl.gov"
+url: "https://nafergo.github.io"
 repo_url: "https://github.com/LLNL/llnl.github.io"
-baseurl: ""
+baseurl: "/catalog1"
 environment: production
 IM_NUMBER: LLNL-WEB-458451
 CONTACT: mailto:open-source-core@llnl.gov
